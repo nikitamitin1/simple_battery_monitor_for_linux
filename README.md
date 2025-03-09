@@ -7,4 +7,5 @@ simple battery monitor, health checker and power profile control center for debi
 2. Choose Repo path ``` cd repo/path/```
 3. Make installation file executable ```chmod +x install.sh```
 4. Run Installation ```./install.sh``` (dependecies will be installed for root-user and password will be required)
+5. To run app use icon from GNOME/KDE application menu.
 
